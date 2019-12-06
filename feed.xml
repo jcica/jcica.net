@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>陶大计协博客栏</title>
+<link>https://jcica.net/blog/</link>
+<atom:link href="https://jcica.net/blog/feed/" rel="self" type="application/rss+xml" />
+<language>zh-CN</language>
+<description>Not only for geeks.</description>
+<lastBuildDate>Sun, 03 Nov 2019 13:36:00 +0800</lastBuildDate>
+<pubDate>Sun, 03 Nov 2019 13:36:00 +0800</pubDate>
+<item>
+<title>景德镇陶瓷大学计算机协会 2019 年秋课程列表</title>
+<link>https://jcica.net/blog/archives/96.html</link>
+<guid>https://jcica.net/blog/archives/96.html</guid>
+<pubDate>Sun, 03 Nov 2019 13:36:00 +0800</pubDate>
+<dc:creator>admin</dc:creator>
+<description><![CDATA[介绍每周我们选定一个主题和一位主持与您一同分享，共同发扬现代科技文化，提高计算机水平，欢迎所有社团内人员参与。具体时间、地点和内容会在微信公众号，计协网站和内部 QQ 群内通知。每周课程的资料都...]]></description>
+<content:encoded xml:lang="zh-CN"><![CDATA[
+<h2>介绍</h2><p>每周我们选定一个主题和一位主持与您一同分享，共同发扬现代科技文化，提高计算机水平，欢迎所有社团内人员参与。具体时间、地点和内容会在微信公众号，计协网站和内部 QQ 群内通知。</p><p>每周课程的资料都在<a href="https://jcica.net/blog/FTP.html">计协 FTP</a> 里。一个有记录的总课程列表在<a href="https://jcica.net/blog/class.html">这里</a>。</p><h2>时间表</h2><table><thead><tr><th>课程</th><th>主讲人</th><th>上课时间</th><th>地点</th><th>有无讲稿（PPT 等）</th><th>有无录像</th></tr></thead><tbody><tr><td>购机知识讲解</td><td>刘起</td><td>11 月 16 日 14:00 - 15:00</td><td>主教学楼 312</td><td>无</td><td>无</td></tr><tr><td>Windows 系统安装及配置</td><td>大佬</td><td>11 月 21 日 16:00 - 17:00</td><td>B3-402</td><td>有</td><td>无</td></tr><tr><td>Linux 科普课</td><td>大佬</td><td>11 月 23 日 14:00 - 15:30</td><td>主教学楼 206</td><td><img src="https://jcica.net/blog/usr/uploads/2019/11/782068545.gif" alt="fixme.gif" title="fixme.gif"></td><td>无</td></tr><tr><td>Premiere & Lightroom 基础</td><td>周亚楠</td><td>11 月 28 日 16:00 - 17:00</td><td>主教学楼 212</td><td>无</td><td>无</td></tr><tr><td>DNS 科普课</td><td>大佬</td><td>11 月 30 日 14:00 - 15:00</td><td>主教学楼 206</td><td>有</td><td>无</td></tr><tr><td>Photoshop 基础</td><td>任雪倩</td><td>12 月 05 日 16:00 - 17:00</td><td>[待确定]</td><td>无</td><td>无</td></tr></tbody></table><h2>其他时间在干什么？</h2><p>我们还有其它活动的哦～</p>
+]]></content:encoded>
+<slash:comments>0</slash:comments>
+<comments>https://jcica.net/blog/archives/96.html#comments</comments>
+<wfw:commentRss>https://jcica.net/blog/feed/archives/96.html</wfw:commentRss>
+</item>
+<item>
+<title>博客搬迁</title>
+<link>https://jcica.net/blog/archives/32.html</link>
+<guid>https://jcica.net/blog/archives/32.html</guid>
+<pubDate>Wed, 14 Aug 2019 23:21:00 +0800</pubDate>
+<dc:creator>刘起</dc:creator>
+<description><![CDATA[经过艰难（并不）的操作后，陶大计协博客搬迁到了香港阿里云。有两件事是今年被我们发现的： 1. 新浪微博开始对图片设置Referer防盗链 2. 阿里云开始对未备案域名访问进行SSL阻断然后很荣幸...]]></description>
+<content:encoded xml:lang="zh-CN"><![CDATA[
+<h4>经过艰难（并不）的操作后，陶大计协博客搬迁到了香港阿里云。</h4><p>有两件事是今年被我们发现的：</p><pre><code> 1. 新浪微博开始对图片设置Referer防盗链
+ 2. 阿里云开始对未备案域名访问进行SSL阻断
+</code></pre><p>然后很荣幸的……咱们的网站就打不开啦╮(╯▽╰)╭</p><p>在技术中心（其实就两个人）的简单商议后，我们将博客的数据库和程序文件导出到本地计算机</p><p>然后在香港阿里云服务器【由我提供】上导入了这个站点</p><p>目前看起来似乎一切运行正常</p><p>站点运行环境：Ubuntu 18.04 X64 LTS + Nginx 1.16 + PHP 7.1 + MySQL 5.6</p>
+]]></content:encoded>
+<slash:comments>0</slash:comments>
+<comments>https://jcica.net/blog/archives/32.html#comments</comments>
+<wfw:commentRss>https://jcica.net/blog/feed/archives/32.html</wfw:commentRss>
+</item>
+<item>
+<title>【现代教育技术中心】景德镇陶瓷大学新版VPN上线通知</title>
+<link>https://jcica.net/blog/archives/24.html</link>
+<guid>https://jcica.net/blog/archives/24.html</guid>
+<pubDate>Thu, 21 Feb 2019 23:41:00 +0800</pubDate>
+<dc:creator>刘起</dc:creator>
+<description><![CDATA[全校师生：为满足师生通过外网安全访问校园网内资源的需求，新版VPN系统已上线，只需登录系统，即可实现校外与校内相同的访问体验，现将新版VPN系统登录方式说明如下。]]></description>
+<content:encoded xml:lang="zh-CN"><![CDATA[
+<p>全校师生：</p><p>为满足师生通过外网安全访问校园网内资源的需求，新版VPN系统已上线，只需登录系统，即可实现校外与校内相同的访问体验，现将新版VPN系统登录方式说明如下。<br></br></p><p class="more"><a href="https://jcica.net/blog/archives/24.html" title="【现代教育技术中心】景德镇陶瓷大学新版VPN上线通知">[...]</a></p>
+]]></content:encoded>
+<slash:comments>0</slash:comments>
+<comments>https://jcica.net/blog/archives/24.html#comments</comments>
+<wfw:commentRss>https://jcica.net/blog/feed/archives/24.html</wfw:commentRss>
+</item>
+<item>
+<title>计协FTP服务备用镜像访问</title>
+<link>https://jcica.net/blog/archives/ftpweihu190203.html</link>
+<guid>https://jcica.net/blog/archives/ftpweihu190203.html</guid>
+<pubDate>Sun, 03 Feb 2019 21:54:00 +0800</pubDate>
+<dc:creator>刘起</dc:creator>
+<description><![CDATA[Update 2019/09/26 本镜像已失效当计协FTP服务器进入维护状态期间如果大家需要访问ftp服务器上的资源可以先访问又拍云备用镜像又拍云web管理工具地址：点此进入服务名（空间名）：...]]></description>
+<content:encoded xml:lang="zh-CN"><![CDATA[
+<h4>Update 2019/09/26 本镜像已失效</h4><p>当计协FTP服务器进入维护状态期间</p><p>如果大家需要访问ftp服务器上的资源</p><p>可以先访问又拍云备用镜像</p><p>又拍云web管理工具地址：<a href="https://uptool.tingfun.net/">点此进入</a></p><p>服务名（空间名）：caftp</p><p>操作员名称：jcica</p><p>操作员密码：jcica2019</p><blockquote><p>该操作员仅有读取权限，如果你在管理界面误操作【比如删库跑路？大雾】，直接重新访问即可，不会造成资源丢失。</p></blockquote><p>进去以后是ftp文件夹，点击最右边的<img src="https://ws1.sinaimg.cn/large/006pWOlfgy1fztkqm33jzj301200x0n6.jpg" alt="" title=""></p><p>即可进入该文件夹</p><p>接下来就是熟悉的ftp文件目录啦</p><blockquote><p>TIPS.本镜像每季度仅有200GB流量，ftp正常运行时请直接访问ftp</p></blockquote>
+]]></content:encoded>
+<slash:comments>0</slash:comments>
+<comments>https://jcica.net/blog/archives/ftpweihu190203.html#comments</comments>
+<wfw:commentRss>https://jcica.net/blog/feed/archives/ftpweihu190203.html</wfw:commentRss>
+</item>
+<item>
+<title>计协FTP跑路了</title>
+<link>https://jcica.net/blog/archives/13.html</link>
+<guid>https://jcica.net/blog/archives/13.html</guid>
+<pubDate>Wed, 19 Dec 2018 20:26:00 +0800</pubDate>
+<dc:creator>刘起</dc:creator>
+<description><![CDATA[对，没错，计协ftp服务暂时停止服务，具体恢复时间未知( ╯□╰ )Update： 已经恢复]]></description>
+<content:encoded xml:lang="zh-CN"><![CDATA[
+<p>对，没错，计协ftp服务暂时停止服务，具体恢复时间未知( ╯□╰ )</p><p>Update： 已经恢复</p>
+]]></content:encoded>
+<slash:comments>0</slash:comments>
+<comments>https://jcica.net/blog/archives/13.html#comments</comments>
+<wfw:commentRss>https://jcica.net/blog/feed/archives/13.html</wfw:commentRss>
+</item>
+</channel>
+</rss>
